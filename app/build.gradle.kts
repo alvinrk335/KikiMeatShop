@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "id.ac.binus.kikimeatshop"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "id.ac.binus.kikimeatshop"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 36
         versionCode = 1
         versionName = "1.0"
 
