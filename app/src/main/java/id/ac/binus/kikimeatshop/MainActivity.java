@@ -1,7 +1,6 @@
 package id.ac.binus.kikimeatshop;
 
 import android.os.Bundle;
-import android.view.Menu;
 import android.view.MenuItem;
 
 import androidx.activity.EdgeToEdge;
@@ -14,6 +13,9 @@ import androidx.fragment.app.Fragment;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 import com.google.android.material.navigation.NavigationBarView;
+
+import id.ac.binus.kikimeatshop.fragment.HomeFragment;
+import id.ac.binus.kikimeatshop.fragment.ProductFragment;
 
 
 public class MainActivity extends AppCompatActivity {

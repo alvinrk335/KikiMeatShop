@@ -1,4 +1,4 @@
-package id.ac.binus.kikimeatshop;
+package id.ac.binus.kikimeatshop.fragment;
 
 import android.os.Bundle;
 
@@ -7,6 +7,8 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import id.ac.binus.kikimeatshop.R;
 
 /**
  * A simple {@link Fragment} subclass.
